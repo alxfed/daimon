@@ -1,10 +1,10 @@
-# Name of Machine
-Explanation of the Machine
+# Daimon
+δαίμων, pronounced daimon or daemon originally referred to a lesser deity or guiding spirit such as the daimons of Hellenistic religion and philosophy.
 <pre>
-  pip install name-of-the-machine
+  pip install daimon
 </pre>
 Then:
 ```Python
   # Python
-  import name_of_the_machine
+  import daimon
 ```
